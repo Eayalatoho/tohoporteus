@@ -1,0 +1,16 @@
+connection=wired
+network_interface=eth0
+dhcp=yes
+browser=chrome
+mouse_cursor_size=large
+homepage=https://www.tohowater.com
+session_idle_forced=30
+allow_popup_windows=yes
+removable_devices=yes
+right_mouse_click=yes
+shutdown_menu=reboot restart-session shutdown sleep 
+timezone=America/New_York
+wallpaper=https://i.imgur.com/fteILre.png
+whitelist= https://www.tohowater.com https://mypayments.bill2pay.com https://pay.bill2pay.com https://form.jotform.us http://form.jotform.us https://form.jotform.com http://form.jotform.com https://submit.jotform.us http://submit.jotform.us https://submit.jotform.com http://submit.jotform.com https://www.applitrack.com https://workforcenow.adp.com https://outlook.live.com https://outlook.office365.com https://mail.live.com https://www.msn.com http://www.msn.com https://www.google.com https://mail.google.com https://www.yahoo.com https://login.yahoo.com https://mail.yahoo.com http://www.applitrack.com http://workforcenow.adp.com http://outlook.live.com http://outlook.office365.com http://mail.live.com http://www.google.com http://mail.google.com http://www.yahoo.com http://login.yahoo.com https://accounts.google.com http://accounts.google.com http://login.live.com https://login.live.com https://www.youtube.com/embed/3hN92TSh3YI http://www.youtube.com/embed/3hN92TSh3YI https://www.employtest.com http://www.employtest.com https://webtest.skillcheck.com http://webtest.skillcheck.com https://webtest.skillcheck.com http://webtest.skillcheck.com https://form.jotform.com http://form.jotform.com https://pay.prod.bill2pay.com http://pay.prod.bill2pay.com https://www.governmentjobs.com http://www.governmentjobs.com https://cloud-object-storage-0h-cos-standard-n5q.s3.us-east.cloud-object-storage.appdomain.cloud/ https://www.esri.com/ https://schedulepayment.com/ http://schedulepayment.com/ https://www.cloudflare.com https://challenges.cloudflare.com https://i.imgur.com https://schedulepayment.com https://bam.nr-data.net https://sealserver.trustwave.com https://ocsp.vikingcloud.com https://acsbapp.com https://secure.trust-provider.com https://cdn.acsbapp.com https://www.cognitoforms.com https://osceolagenerationsapps.org
+
+additional_components=uefi.zip 
